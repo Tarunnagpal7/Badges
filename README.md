@@ -1,3 +1,3 @@
 # Badges
 Holopin DIgital Badges
-[![ https://holopin.me/tarunnagpal7 ]](https://holopin.io/@tarunnagpal7)
+[![An image of @tarunnagpal7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tarunnagpal7)](https://holopin.io/@tarunnagpal7)
